@@ -102,7 +102,7 @@ Mobile-Sales-PowerBI-Dashboard-Project1/
 ---
 
 ## Dashboard
-![Dashboard Preview](Images/dashboard.png)
+![Dashboard Preview](Images/dashboard.PNG)
 
 ---
 
