@@ -41,6 +41,7 @@ Mobile-Sales-PowerBI-Dashboard-Project1/
 │      └── Mobile Sales Data.xlsx
 │
 ├── Images /           #Folder
+│       ├── Icon/
 │       └── Dashboard.PNG   
 │   
 ├── Mobile Shop Sales - Dashboard.pbix   #PowerBi file        
